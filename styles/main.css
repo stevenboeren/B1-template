@@ -158,7 +158,6 @@ button{
 .row{
   display: flex;
   flex-direction: row;
-  margin-top: 40px;
 }
 
 .sidy-by-side{
