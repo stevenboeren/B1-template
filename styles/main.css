@@ -191,6 +191,21 @@ button{
   justify-content: space-between;
   align-items: center;
 }
+.product-detail{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.product-detail img{
+  width: 100%;
+  max-width: 350px;
+}
+.product-detail article{
+  border: none;
+}
+.product-detail article p span{
+  font-weight: bold;
+}
 
 .description{
   flex: 1;
