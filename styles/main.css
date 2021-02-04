@@ -160,6 +160,16 @@ button{
   flex-direction: row;
 }
 
+.emphasize{
+  border-left: 5px solid #27AE60;
+  box-shadow: 1px 0px 5px #27AE60;
+}
+.emphasize h2{
+  margin: 0;
+  border: none;
+  text-align: center;
+}
+
 .sidy-by-side{
 }
 
